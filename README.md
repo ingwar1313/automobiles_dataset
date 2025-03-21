@@ -19,6 +19,8 @@ Power BI features used:
   - Start page with links to all others
   - Separate info page
 
+Dashboard can be tested by public URL: https://app.powerbi.com/view?r=eyJrIjoiOTcwYzE3ZDMtOTE5NS00MWUyLWFlNDgtYmY1YzRhNDI3NjlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9  
+
 Country flags and logos taken from https://www.freepik.com
 
 Color palette is https://colorhunt.co/palette/ffc7c7ffe2e2f6f6f68785a2  
