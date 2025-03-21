@@ -6,7 +6,8 @@ Make an opportunity for user to filter them by country, vendor, year,
 Get some insights not only characteristics provided but some more complex measures like power to weight proportions.
 
 Power BI features used:
- - bookmarks with buttons
+ - Bookmarks with buttons
+ - Drill-through page with detailed model info
  - DAX measures with dynamic ranking (ALLSELECTED)
  - New button slicer with country flags instead of text
  - Top 10 filters
